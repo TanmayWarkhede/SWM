@@ -48,7 +48,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/SWM.git
+git clone https://github.com/TanmayWarkhede/SWM.git
 cd smart-waste-management
 Install dependencies:
 
